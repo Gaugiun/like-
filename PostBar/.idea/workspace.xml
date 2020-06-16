@@ -1,5 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7b10a7b-a941-4318-b5bc-4c72b42f7709" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/controller/AccountController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/controller/BarController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/controller/PostController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/controller/ReplyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/controller/ReplyEvaluateController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/AccountDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/BarDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/PostDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/PostInfoVDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/ReplyDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/ReplyEvaluateDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/ReplyInfoVDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/entities/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/entities/Bar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/entities/Post.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/entities/PostInfoV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/entities/Reply.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/entities/ReplyEvaluate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/entities/ReplyInfoV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/imp/AccountDaoImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/imp/BarDaoImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/imp/PostDaoImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/imp/PostInfoVDaoImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/imp/ReplyDaoImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/imp/ReplyEvaluateDaoImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/dao/imp/ReplyInfoVDaoImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/BarService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/PostInfoVService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/PostService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/ReplyEvaluateService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/ReplyInfoVService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/ReplyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/imp/AccountServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/imp/BarServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/imp/PostInfoVServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/imp/PostServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/imp/ReplyEvaluateServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/imp/ReplyInfoVServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/service/imp/ReplyServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/postbar/util/GetFileName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/i18n.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/i18n_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/i18n_zh_CN.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -13,6 +74,27 @@
     <option name="x" value="-8" />
     <option name="width" value="1293" />
     <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PostBar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PostBar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -34,6 +116,73 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7b10a7b-a941-4318-b5bc-4c72b42f7709" name="Default Changelist" comment="" />
+      <created>1592266620997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592266620997</updated>
+      <workItem from="1592266628854" duration="432000" />
+    </task>
+    <task id="LOCAL-00001" summary="111">
+      <created>1592267049421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592267049421</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="432000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1479" height="878" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17171006" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Word Book" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Mybatis datasource" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="masterDetails">
     <states>
